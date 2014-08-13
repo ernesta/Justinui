@@ -24,7 +24,8 @@ Ir pajutau, kad meilė - net ir ta -
 
 Man dvigubai sunkesnė pasidarė.
 
-*Justinas Marcinkevičius*
+
+**Justinas Marcinkevičius**
 
 ## Naudoja
 [jQuery](http://jquery.com/), [jQuery fancybox](http://fancybox.net/) ir truputį [AddThis](http://www.addthis.com/).
